@@ -1,4 +1,7 @@
 # Satellite-Data-Driven Forest Fire Classification System 🔥🛰️
+## 🌐 Live Deployment
+👉 **Access the live application here:**  
+🔗 https://forest-fire0.streamlit.app/
 
 ## 📌 Project Overview
 The **Satellite-Data-Driven Forest Fire Classification System** is a machine learning–based application developed to classify forest fire intensity levels in India using MODIS-style satellite parameters.
